@@ -350,37 +350,15 @@
 <div class="blurb bright">
   <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Map</h3>
+        <h3>Maps</h3>
         <br>
       </div>
   </div>
-  
   <div class="row">
-    <div class="col-sm-4 col-sm-offset-2">
-         <div class="panel panel-default">
-         <div class="panel-heading text-center"><h2><i class="icon-chevron-left"></i> Left</h2></div>
-         <div class="panel-body text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
-          Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
-          dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
-          Aliquam in felis si.
-            <div class="row">&nbsp;</div>
-          <button class="btn btn-lg btn-primary btn-block">Login</button> 
-          </div>
-         </div>
- 	</div>
-    <div class="col-sm-4">
-         <div class="panel panel-default">
-         <div class="panel-heading text-center"><h2>Right <i class="icon-chevron-right"></i></h2></div>
-         <div class="panel-body text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
-          Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
-          dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
-          Aliquam in felis sit.
-           <div class="row">&nbsp;</div>
-          <button class="btn btn-lg btn-primary btn-block">Sign Up</button> 
-           
-          </div>
-         </div>
- 	</div>
+    <div class="col-sm-4 col-sm-offset-2" id="valley-map">
+ 	  </div>
+    <div class="col-sm-4" id="downtown-map">
+ 	  </div>
   </div>
 </div>
 
@@ -413,6 +391,9 @@
     <script src="js/bind-polyfill.min.js"></script>
     <script src="js/smooth-scroll.min.js"></script>
     <script src="js/scripts.js"></script>
-
+    <script src="js/scroll-up.js"></script>
+    <script src="js/scroll-down.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_jcnaUA4mAEDwTdX8QF0DRo-IhcaEJZM"></script>
+    <script src="js/map-loader.js"></script>
 	</body>
 </html>
