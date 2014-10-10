@@ -33,6 +33,20 @@ img.grayscale {
 }
 
 /* custom additions */
+.background-50 {
+  background-color: rgba(256,256,256, 0.75);
+  border: none;
+}
+
+.background-25 {
+  background-color: rgba(256, 256, 256, 0.25);
+  border: none;
+}
+
+.google-maps {
+  height: 300px; 
+}
+
 .footer {
   background-color: #4E4E4E;
 }
@@ -44,10 +58,18 @@ img.grayscale {
 .hover-color:hover {
   background-color: rgba(25, 204, 190, 1);
 }
+
 .li-space>li {
   margin-bottom: 10px;
 }
+
 .font-V {
+  font-family:'Voltaire',Arial,sans-serif;
+  font-size: 120%;
+}
+
+.font-V-upper {
+  text-transform: uppercase;
   font-family:'Voltaire',Arial,sans-serif;
   font-size: 120%;
 }

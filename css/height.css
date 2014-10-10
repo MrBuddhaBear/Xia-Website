@@ -1,8 +1,8 @@
 /* -- custom media query height classes --*/
 @media screen and (max-width: 400px) {
 
-	.callout {
-  		font-size: 80%;
+	.small-400 {
+  		font-size: 75%;
 	}
 }
 /*

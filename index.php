@@ -97,7 +97,7 @@
 <div class="callout" id="Events">
   <div class="vert">
     <div class="col-md-12 text-center"><h1>Events</h1></div>
-    <div class="col-md-12 text-center">
+    <div class="col-md-12 text-center small-400">
       <br>
       <i class="fa fa-user"></i>
       <i class="fa fa-user"></i>
@@ -327,37 +327,87 @@
 <div class="blurb bright height-full" id="Contact">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+
+      <div class="col-md-7 text-center">
         <h1>Contact Xia</h1>
-        <p class="lead">
+        <div>
+          <hr>
+        </div>
+        <p class="font-V-upper">
           For general issues, please use the form options
           <br>
           For specific request, please contact Xia directly via email or phone
         </p>
+        <br>
+        <br>
+        <div class="well background-25">
+          <h3>
+            <address>
+              <strong>Xia's Studio</strong> <br>
+              8816 Sasha Ave <br>
+              Juneau, AK 99801 <br>
+              <br>
+              <abbr title="Work Phone">Work:</abbr> (907) 789-9774 <br>
+              <abbr title="Mobile Phone">Mobile:</abbr> (907) ...-.... <br>
+              <abbr title="Email">Email:</abbr> <a href="mailto:#">xia@alaska.com</a>
+            </address>
+          </h3>
+        </div>
       </div>
+
+      <div class="col-md-5 text-center">
+      <h3> 
+        Specific Requests 
+      </h3>
+      </div>
+
     </div>
-    <div>
-      <div class="col-md-6 text-center">
-
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <br>
+        <br>
+        <a data-scroll href="#Maps" class="btn btn-default btn-lg background-75">Directions</a>      
       </div>
-      <div class="col-md-6 text-center">
-
     </div>
   </div>
 </div>
-</div>
 
-<div class="blurb bright">
+<div class="blurb bright" id="Maps">
   <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Maps</h3>
+        <h1>Maps</h1>
+        <hr>
         <br>
       </div>
   </div>
   <div class="row">
-    <div class="col-sm-4 col-sm-offset-2" id="valley-map">
+    <div class="col-sm-4 col-sm-offset-2">
+      <div class="google-maps" id="valley-map">
+      </div>
+      <div class="text-center">
+        &nbsp;
+        <h4>
+          <address>
+            Xia's Studio <br>
+            8816 Sasha Ave <br>
+            Juneau, AK 99801 <br>
+          </address>
+        </h4>
+      </div>
  	  </div>
-    <div class="col-sm-4" id="downtown-map">
+    <div class="col-sm-4">
+      <div class="google-maps" id="downtown-map">
+      </div>
+      <div class="text-center">
+        &nbsp;
+        <h4>
+          <address>
+            Northern Light United Church <br>
+            400 W 11th St <br>
+            Juneau, AK 99801 <br>
+          </address>
+        </h4>
+      </div>
  	  </div>
   </div>
 </div>
@@ -395,5 +445,6 @@
     <script src="js/scroll-down.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_jcnaUA4mAEDwTdX8QF0DRo-IhcaEJZM"></script>
     <script src="js/map-loader.js"></script>
+
 	</body>
 </html>
