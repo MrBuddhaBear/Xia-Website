@@ -327,7 +327,6 @@
 <div class="blurb bright height-full" id="Contact">
   <div class="container">
     <div class="row">
-
       <div class="col-md-7 text-center">
         <h1>Contact Xia</h1>
         <div>
@@ -354,13 +353,11 @@
           </h3>
         </div>
       </div>
-
       <div class="col-md-5 text-center">
       <h3> 
         Specific Requests 
       </h3>
       </div>
-
     </div>
     <div class="row">
       <div class="col-md-12 text-center">
@@ -371,7 +368,6 @@
     </div>
   </div>
 </div>
-
 <div class="blurb bright" id="Maps">
   <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
@@ -412,23 +408,7 @@
   </div>
 </div>
 
-<footer class="footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <ul class="list-inline">
-          <li><i class="icon-facebook icon-2x"></i></li>
-          <li><i class="icon-twitter icon-2x"></i></li>
-          <li><i class="icon-google-plus icon-2x"></i></li>
-          <li><i class="icon-pinterest icon-2x"></i></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <ul class="nav pull-right scroll-top">
-    <li><a href="#" title="Scroll to top"><i class="fa fa-angle-double-up fa-4x"></i></a></li>
-  </ul>
-</footer>
+<?php include 'php/footer.php';?>
 
 <ul class="nav pull-right scroll-down">
   <li><a href="#" title="Scroll down"><i class="fa fa-angle-double-down fa-4x"></i></a></li>

@@ -33,6 +33,12 @@ img.grayscale {
 }
 
 /* custom additions */
+.footer-links>div>ul>li>a {
+  color: rgba(100,100,100,1);
+  font-family: 'Voltaire', Arial, sans-serif;
+  font-size: 120%;
+}
+
 .background-50 {
   background-color: rgba(256,256,256, 0.75);
   border: none;
@@ -48,7 +54,7 @@ img.grayscale {
 }
 
 .footer {
-  background-color: #4E4E4E;
+  background-color: rgba(200,200,200,1);
 }
 
 .height-full {
