@@ -27,22 +27,22 @@
                         		<hr>
                         	</li>
                             <li>
-                                <a href="privateLessons.php">Private Lessons</a>
+                                <a href="studio.php#private_lessons">Private Lessons</a>
                             </li>
                             <li>
-                                <a href="chamberOrchestra.php">Chamber Orchestra</a>
+                                <a href="studio.php#chamber_orchestra">Chamber Orchestra</a>
                             </li>
                             <li>
-                                <a href="JSD.php">Juneau School District</a>
+                                <a href="studio.php#JSD">Juneau School District</a>
                             </li>
                             <li>
                                 <hr>
                             </li>
                             <li>
-                                <a href="signup.php">Sign Up</a>
+                                <a href="studio.php#sign_up">Sign Up</a>
                             </li>
                             <li>
-                                <a href="policy">Policy</a>
+                                <a href="studio.php#policy">Policy</a>
                             </li>
                         </ul>
 		        </li>

@@ -410,9 +410,9 @@
 
 <?php include 'php/footer.php';?>
 
-<ul class="nav pull-right scroll-down">
+<!-- <ul class="nav pull-right scroll-down">
   <li><a href="#" title="Scroll down"><i class="fa fa-angle-double-down fa-4x"></i></a></li>
-</ul>
+</ul> -->
 
 
 	<!-- script references -->
@@ -422,7 +422,7 @@
     <script src="js/smooth-scroll.min.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/scroll-up.js"></script>
-    <script src="js/scroll-down.js"></script>
+    <!-- <script src="js/scroll-down.js"></script> -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_jcnaUA4mAEDwTdX8QF0DRo-IhcaEJZM"></script>
     <script src="js/map-loader.js"></script>
 

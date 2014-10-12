@@ -1,12 +1,12 @@
 <?php
 echo 
-  '<footer class="footer" role="contentinfo">
+  '<footer class="footer" id="footer" role="contentinfo">
     <div class="container">
       <div class="wrapper">
         <div class="row">
-          <div class="col-md-8 col-md-offset-2">
+          <div class="col-md-8 col-md-offset-2 footer-links">
             <div class="row footer-links">
-              <div class="col-xs-3">
+              <div class="col-sm-3">
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Company</li>
                   <li>
@@ -27,7 +27,7 @@ echo
                   </li>
                 </ul>
               </div>
-              <div class="col-xs-3">
+              <div class="col-sm-3">
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Studio</li>
                   <li>
@@ -38,7 +38,7 @@ echo
                   </li>
                 </ul>
               </div>
-              <div class="col-xs-3">
+              <div class="col-sm-3">
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Events</li>
                   <li>
@@ -55,7 +55,7 @@ echo
                   </li>
                 </ul>
               </div>
-              <div class="col-xs-3">
+              <div class="col-sm-3">
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Support</li>
                   <li>
