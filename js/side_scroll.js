@@ -30,10 +30,16 @@ $('a[href*=#]:not([href=#])').click(function() {
 
 $(window).scroll(function () { 
 
+var navbarHeights = {
+  "studio": 475,
+  "press": 300,
+  "events": 550
+}
+
 // distance from top of footer to top of document
 footertotop = ($('#footer').position().top);
 // distance user has scrolled from top, adjusted to take in height of sidebar (570 pixels inc. padding)
-scrolltop = $(document).scrollTop()+475;
+scrolltop = $(document).scrollTop()+navbarHeights[page];
 // difference between the two
 difference = scrolltop-footertotop;
 

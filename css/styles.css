@@ -33,6 +33,15 @@ img.grayscale {
 }
 
 /* custom additions */
+.error {
+  color: red;
+}
+
+.pic-border {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
 .footer-links>div>ul>li>a {
   color: rgba(100,100,100,1);
   font-family: 'Voltaire', Arial, sans-serif;
@@ -260,6 +269,7 @@ img.grayscale {
 .blurb {
   padding: 120px 0;
   background-color:#fefefe;
+  min-height: 100%;
 }
 
 .blurb .panel {

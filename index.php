@@ -13,7 +13,7 @@
       Bringing music to the community of Juneau for over 20 years
     </p>
     <div>&nbsp;</div>
-    <a href="#" class="btn btn-default btn-lg">Learn More</a>
+    <a data-scroll href="#Studio" class="btn btn-default btn-lg">Learn More</a>
     <div>&nbsp;</div>
   </div>
 </div>
@@ -34,7 +34,9 @@
           <br><br>
           He received a Bachelor of Arts from the Shanghai Conservatory, and a Masters of Music from the University of Alaska in Fairbanks. He was a violinist with the Shanghai Ballet Orchestra for over 10 years, and is currently a member of the Juneau Symphony, where he has been playing for over 15 years.
           <br><br>
-          Xia has conducted the Juneau Youth Symphony, and currently coaches several chamber ensambles in Juneau. Additionally, he is involved in local music programs such as Juneau Alaska Music Matters (JAMM).
+          <div class="text-center">
+            <a href="about.php" class="btn btn-default btn-lg">More...</a>
+          </div>
         </p>
       </div>
     </div>
@@ -316,7 +318,7 @@
         </ul>
       </div>
       <div class="col-md-12 text-center">
-        <a href="#" class="btn btn-default btn-lg hover-color">More</a>
+        <a href="press.php" class="btn btn-default btn-lg hover-color">More</a>
       </div>
     </div>
   </div>

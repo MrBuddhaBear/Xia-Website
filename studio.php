@@ -41,8 +41,8 @@
             <li><a href="#private_lessons"><h4>Private Lessons</h4></a></li>
             <li><a href="#chamber_orchestra"><h4>Chamber Orchestra</h4></a></li>
             <li><a href="#JSD"><h4>Juneau School District</h4></a></li>
-            <li><a href="#sign_up"><h4>Sign Up</h4></a></li>
             <li><a href="#piano"><h4>Piano Accompaniment</h4></a></li>
+            <li><a href="#sign_up"><h4>Sign Up</h4></a></li>
             <li><a href="#policy"><h4>Policy</h4></a></li>
           </ul>
         </div><!--/left-->
@@ -170,6 +170,9 @@
   <script src="js/smooth-scroll.min.js"></script>
   <script src="js/scripts.js"></script>
   <script src="js/scroll-up.js"></script>
+  <script type="text/javascript">
+    var page = "studio";
+  </script>
   <script src="js/side_scroll.js"></script>
 </body>
 </html>
