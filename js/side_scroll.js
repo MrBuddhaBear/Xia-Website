@@ -36,23 +36,25 @@ var navbarHeights = {
   "events": 550
 }
 
-// distance from top of footer to top of document
-footertotop = ($('#footer').position().top);
-// distance user has scrolled from top, adjusted to take in height of sidebar (570 pixels inc. padding)
-scrolltop = $(document).scrollTop()+navbarHeights[page];
-// difference between the two
-difference = scrolltop-footertotop;
+if(screen.width >= 979) {
+  // distance from top of footer to top of document
+  footertotop = ($('#footer').position().top);
+  // distance user has scrolled from top, adjusted to take in height of sidebar (570 pixels inc. padding)
+  scrolltop = $(document).scrollTop()+navbarHeights[page];
+  // difference between the two
+  difference = scrolltop-footertotop;
 
-// if user has scrolled further than footer,
-// pull sidebar up using a negative margin
+  // if user has scrolled further than footer,
+  // pull sidebar up using a negative margin
 
-if (scrolltop > footertotop) {
+  if (scrolltop > footertotop) {
 
-$('#sidebar').css('margin-top',  0-difference);
-}
+  $('#sidebar').css('margin-top',  0-difference);
+  }
 
-else  {
-$('#sidebar').css('margin-top', 0);
+  else  {
+  $('#sidebar').css('margin-top', 0);
+  }
 }
 
 

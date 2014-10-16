@@ -117,6 +117,7 @@
         <!--left-->
         <div class="col-md-3" id="leftCol">
           <ul class="nav nav-stacked" id="sidebar">
+            <hr>
             <li><a href="#press"><h4>Press</h4></a></li>
             <li><a href="#testimonies"><h4>Testimonies</h4></a></li>
             <li><a href="#contribute"><h4>Contribute</h4>
@@ -124,6 +125,7 @@
                 (find a missing news article?)
               </p>
             </a></li>
+            <hr>
           </ul>
         </div><!--/left-->
         

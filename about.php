@@ -10,7 +10,7 @@
   <div class="container">
     <div class="row">
       <div class='col-md-3 col-md-offset-1 face-container text-center'>
-        <img src='pic/studiocircle.jpg' alt="Opps! Looks like we have run into an technical error." class="img-circle grayscale face">
+        <img src='pic/studiocircle.jpg' alt="Opps! Looks like we have run into an technical error." class="img-rounded grayscale face">
       </div>
       <div class="col-md-7">
         <h1>About Xia's Studio ...</h1>

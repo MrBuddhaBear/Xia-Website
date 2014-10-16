@@ -8,7 +8,12 @@
 <div class="header alt vert-header">
   <div class="container vert">
     <div>&nbsp;</div>
-    <h1>Xia's Studio</h1>
+    <h1>
+      TEST SITE UNDER CONSTRUCTION
+      <br>
+      <br>
+      Xia's Studio
+    </h1>
     <p class="lead">
       Bringing music to the community of Juneau for over 20 years
     </p>
@@ -335,9 +340,9 @@
           <hr>
         </div>
         <p class="font-V-upper">
-          For general issues, please use the form options
+          For general requests, please use the form options
           <br>
-          For specific request, please contact Xia directly via email or phone
+          For specific requests, please contact Xia directly via email or phone
         </p>
         <br>
         <br>
@@ -355,10 +360,40 @@
           </h3>
         </div>
       </div>
-      <div class="col-md-5 text-center">
+      <div class="col-md-5 text-center font-V-sm">
       <h3> 
-        Specific Requests 
+        General Requests 
       </h3>
+      <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+          <div class="featurette-item-sm">
+            <h4>Lessons</h4>
+            <i class="fa fa-music"></i>
+            <br>
+            Contact Xia about violin or viola lessons for your child.
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+          <div class="featurette-item-sm">
+            <h4>Event Booking</h4>
+            <i class="fa fa-calendar"></i>
+            <br>
+            Click here for to inquire about live music for an event.
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+          <div class="featurette-item-sm">
+            <h4>Time Conflicts</h4>
+            <i class="fa fa-clock-o"></i>
+            <br>
+            Have a lessons conflict? Tell Xia about it here. 
+          </div>
+        </div>
+      </div>
       </div>
     </div>
     <div class="row">

@@ -33,6 +33,26 @@ img.grayscale {
 }
 
 /* custom additions */
+.featurette-item-sm {
+  margin-bottom: 10px;
+}
+
+.featurette-item-sm > i {
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 36px;
+  width: 100px;
+  height: 100px;
+  line-height: 96px;
+  vertical-align: middle; 
+  text-align: center;
+}
+
+.featurette-item-sm > i:hover {
+  font-size: 48px;
+}
+
 .success {
   background-color: #3385FF;
 }
@@ -85,6 +105,11 @@ img.grayscale {
 .font-V {
   font-family:'Voltaire',Arial,sans-serif;
   font-size: 120%;
+}
+
+.font-V-sm {
+  font-family:'Voltaire',Arial,sans-serif;
+  font-size: 100%;
 }
 
 .font-V-upper {
