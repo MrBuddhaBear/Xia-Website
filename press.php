@@ -58,8 +58,8 @@
           "Email: " . $email . "\n\n" .
           "Info/Testimony : \n" . 
           $_POST["comments"];
-        mail("zheng_colin@yahoo.com","User Press/Testimony Contribution",$message,"From: " . $email);
-        $success = "Your input has been submitted. \n Thank you for your contribution!";
+        mail('zheng_colin@yahoo.com',"User Press/Testimony Contribution",$message, "From: request@violinxia.net78.net");
+        $success = "<div class=\"well text-center success\">Your input has been submitted. <br> Thank you for your contribution!</div>";
      }
 
      // header("Location:press.php#contribute");
@@ -197,6 +197,11 @@
             <br>
             Contribute
           </h2>
+            <div class="font-V">
+            <h2>
+              <?php echo $success;?>
+          </h2>
+          </div>
           <br>
           <p>
             Spot Xia or one of his students in the news? Have a testimony about how great Xia is? Let us know by filling out the form below.
@@ -227,11 +232,6 @@
             <button type="submit" name="submit" value="Submit" class="btn btn-default">Submit</button>
           </form>
           <br>
-          <div class="font-V">
-            <h2>
-              <?php echo $success;?>
-            </h2>
-          </div>
           <hr>
           <br>
           </div><!--/right-->

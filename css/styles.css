@@ -33,6 +33,10 @@ img.grayscale {
 }
 
 /* custom additions */
+.success {
+  background-color: #3385FF;
+}
+
 .error {
   color: red;
 }
