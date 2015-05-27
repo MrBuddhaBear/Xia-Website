@@ -4,7 +4,7 @@
   <?php include 'php/header.php';?>
   <link rel="stylesheet" type="text/css" href="css/side_scroll.css">
 </head>
-<body>
+<body data-spy="scroll" data-target="#leftCol" style="position:relative">
   <?php include 'php/navbar_links.php';?>
 
   <!-- php email form -->
@@ -115,7 +115,7 @@
   <div class="container">
     <div class="row">
         <!--left-->
-        <div class="col-md-3" id="leftCol">
+        <div class="col-md-3" id="leftCol" data-spy="affix" data-offset-top="149" data-offset-bottom="463">
           <ul class="nav sidenav nav-stacked" id="sidebar">
             <hr>
             <li><a href="#press"><h4>Press</h4></a></li>
@@ -255,7 +255,27 @@
   <script type="text/javascript">
     var page = "press";
   </script>
-  <script src="js/side_scroll.js"></script>
-  
+  <!-- <script src="js/side_scroll.js"></script> -->
+  <script type="text/javascript">
+    $('body').scrollspy({ 
+        target: '#leftCol',
+        offset: 10 
+    })
+    $('[data-spy="scroll"]').each(function () {
+      var $spy = $(this).scrollspy('refresh')
+    })
+    $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top - 50
+        }, 1000);
+        return false;
+      }
+    }
+});
+  </script>
 </body>
 </html>

@@ -9,7 +9,9 @@
   <div class="container vert">
     <div>&nbsp;</div>
     <h1>
-      TEST SITE UNDER CONSTRUCTION
+      <div class="well" style="background-color:#EE6363">
+        TEST SITE UNDER CONSTRUCTION
+      </div>
       <br>
       <br>
       Xia's Studio

@@ -150,9 +150,11 @@
             sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
             Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut.</p>
           
+          <br>
           <hr>
           <h4><a href="doc/policy.pdf">Copy of Policy</a></h4>
           <hr>
+          <br>
 
           </div><!--/right-->
       </div><!--/row-->
