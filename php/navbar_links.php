@@ -73,7 +73,7 @@
                         </ul>
                 </li>
 		        <li><a href="index.php#Press">Press</a></li>
-		        <li><a href="#sec5">Contact</a></li>
+		        <li><a href="contact.php">Contact</a></li>
 		      </ul>
 		    </div>
 		   </div>

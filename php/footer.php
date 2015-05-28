@@ -57,7 +57,7 @@ echo
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Support</li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">Contact Us</a>
+                    <a href="contact.php">Contact Us</a>
                   </li>
                   <li>
                     <a href="...:::URL NEEDED:::...">Web Site</a>

@@ -364,6 +364,7 @@
         </div>
       </div>
       <div class="col-md-5 text-center font-V-sm">
+      <a class="index-contact" href="contact.php">
       <h3> 
         General Requests 
       </h3>
@@ -397,6 +398,7 @@
           </div>
         </div>
       </div>
+      </a>
       </div>
     </div>
     <div class="row">
