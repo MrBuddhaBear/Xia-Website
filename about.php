@@ -13,7 +13,7 @@
         <img src='pic/studiocircle.jpg' alt="Opps! Looks like we have run into an technical error." class="img-rounded grayscale face">
       </div>
       <div class="col-md-7">
-        <h1>About Xia's Studio ...</h1>
+        <h1 id="studio">About Xia's Studio ...</h1>
         <div>&nbsp;</div>
         <p class="lead">
           ....
@@ -34,7 +34,7 @@
         <img src='pic/face.jpg' alt="Opps! Looks like we have run into an technical error." class="img-circle grayscale face">
       </div>
       <div class="col-md-7">
-        <h1>About Xia ...</h1>
+        <h1 id="xia">About Xia ...</h1>
         <div>&nbsp;</div>
         <p class="lead">
           Mr. Xia ("Shaw") is a classically trained violinist with 25 years of violin and viola teaching experience. Over the years he has taught over 500 studens from ages 5 to 65.
@@ -51,23 +51,7 @@
     <br>
     <hr>
     <br>
-    <br>
-    <div class="row">
-      <div class='col-md-3 col-md-offset-1 face-container text-center'>
-        <img src='pic/mei.jpg' alt="Opps! Looks like we have run into an technical error." class="img-circle grayscale face">
-      </div>
-      <div class="col-md-7">
-        <h1>About Mei ...</h1>
-        <div>&nbsp;</div>
-        <p class="lead">
-          ....
-          <br><br>
-          ....
-          <br><br>
-          ....
-        </p>
-      </div>
-    </div>    
+    <br>    
   </div>
 </div>
 

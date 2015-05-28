@@ -36,35 +36,3 @@ $('a[href*=#]:not([href=#])').click(function() {
 $("#sidebar").on("activate.bs.scrollspy", function() {
   $("#sidebar").attr("style","")
 })
-
-// $(window).scroll(function () { 
-
-// var navbarHeights = {
-//   "studio": 475,
-//   "press": 300,
-//   "events": 550
-// }
-
-// if(screen.width >= 979) {
-//   // distance from top of footer to top of document
-//   footertotop = ($('#footer').position().top);
-//   // distance user has scrolled from top, adjusted to take in height of sidebar (570 pixels inc. padding)
-//   scrolltop = $(document).scrollTop()+navbarHeights[page];
-//   // difference between the two
-//   difference = scrolltop-footertotop;
-
-//   // if user has scrolled further than footer,
-//   // pull sidebar up using a negative margin
-
-//   if (scrolltop > footertotop) {
-
-//   $('#sidebar').css('margin-top',  0-difference);
-//   }
-
-//   else  {
-//   $('#sidebar').css('margin-top', 0);
-//   }
-// }
-
-
-// });

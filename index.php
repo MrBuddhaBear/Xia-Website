@@ -8,10 +8,12 @@
 <div class="header alt vert-header">
   <div class="container vert">
     <div>&nbsp;</div>
-    <h1>
-      <div class="well" style="background-color:#EE6363">
+    <h2>
+      <div class="well" id="test-site">
         TEST SITE UNDER CONSTRUCTION
       </div>
+    </h2>
+    <h1>
       <br>
       <br>
       Xia's Studio
@@ -64,7 +66,7 @@
       </div>
     </div>
     <div class="row">
-      <a href="#About">
+      <a href="studio.php#private_lessons">
         <div class="col-md-2 col-md-offset-3 text-center white-link">
           <div class="featurette-item">
             <i class="fa fa-music"></i>
@@ -77,7 +79,7 @@
           </div>
         </div>
       </a>
-      <a href="#About">
+      <a href="studio.php#chamber_orchestra">
         <div class="col-md-2 text-center white-link">
           <div class="featurette-item">
             <i class="fa fa-users"></i>
@@ -86,7 +88,7 @@
           </div>
         </div>
       </a>
-      <a href="#About">
+      <a href="studio.php#JSD">
         <div class="col-md-2 text-center white-link">
           <div class="featurette-item">
             <i class="fa fa-university"></i>
@@ -99,6 +101,11 @@
           </div>
         </div>
       </a>
+    </div>
+    <div class="col-md-12 text-center">
+      <br>
+      <br>
+      <a href="studio.php" class="btn btn-default btn-lg hover-color">Go to the studio page</a>
     </div>
   </div>
 </div>
@@ -199,16 +206,6 @@
       &nbsp;<i class="fa fa-child" style="font-size:350%"></i>
     </div>
     <div class="col-md-12 text-center">&nbsp;</div>
-<!--     <div class="col-md-8 col-md-offset-2 text-center">
-      <div class="row hidden-xs">
-       <div class="col-sm-2"><img class="img-circle grayscale" src="http://api.randomuser.me/portraits/thumb/women/12.jpg"></div>
-       <div class="col-sm-2"><img class="img-circle grayscale" src="http://api.randomuser.me/portraits/thumb/men/95.jpg"></div>
-       <div class="col-sm-2"><img class="img-circle grayscale" src="http://api.randomuser.me/portraits/thumb/women/67.jpg"></div>
-       <div class="col-sm-2"><img class="img-circle grayscale" src="http://api.randomuser.me/portraits/thumb/men/27.jpg"></div>
-       <div class="col-sm-2"><img class="img-circle grayscale" src="http://api.randomuser.me/portraits/thumb/women/15.jpg"></div>  
-       <div class="col-sm-2"><img class="img-circle grayscale" src="http://api.randomuser.me/portraits/thumb/men/18.jpg"></div>
-      </div>
-    </div> -->
     <div class="container">
       <div class="col-md-4 col-md-offset-2 text-center">
         <h2>
@@ -244,7 +241,7 @@
         <div>
           &nbsp;
         </div>
-        <a href="#" class="btn btn-default btn-lg hover-color">More Events</a>
+        <a href="events.php" class="btn btn-default btn-lg hover-color">More Events</a>
         <div>
           &nbsp;
         </div>
@@ -260,12 +257,14 @@
         <h1>Press</h1>
       </div>
       <div class="col-md-4 col-md-offset-2 text-center">
-        <div class="featurette-item">
-          <i class="fa fa-newspaper-o"></i>
-          <h3>
-            In the News
-          </h3>
-        </div>
+        <a href="press.php#press">
+          <div class="featurette-item">
+            <i class="index-press fa fa-newspaper-o"></i>
+            <h3>
+              In the News
+            </h3>
+          </div>
+        </a>
         <ul class="font-V li-space">
           <li>
             <em>JAMM violins expand to two more schools</em>
@@ -302,12 +301,14 @@
         </ul>
       </div>
       <div class="col-md-4 text-center">
-        <div class="featurette-item">
-          <i class="fa fa-thumbs-up"></i>
-          <h3>
-            Testimonies
-          </h3>
-        </div>
+        <a href="press.php#testimonies">
+          <div class="featurette-item">
+            <i class="index-press fa fa-thumbs-up"></i>
+            <h3>
+              Testimonies
+            </h3>
+          </div>
+        </a>
         <ul class="font-V">
           <li>
             <q style="font-size:85%">
@@ -449,11 +450,6 @@
 
 <?php include 'php/footer.php';?>
 
-<!-- <ul class="nav pull-right scroll-down">
-  <li><a href="#" title="Scroll down"><i class="fa fa-angle-double-down fa-4x"></i></a></li>
-</ul> -->
-
-
 	<!-- script references -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
@@ -461,7 +457,6 @@
     <script src="js/smooth-scroll.min.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/scroll-up.js"></script>
-    <!-- <script src="js/scroll-down.js"></script> -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_jcnaUA4mAEDwTdX8QF0DRo-IhcaEJZM"></script>
     <script src="js/map-loader.js"></script>
 

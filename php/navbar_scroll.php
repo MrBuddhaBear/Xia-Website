@@ -56,19 +56,19 @@
                         		<hr>
                         	</li>
                             <li>
-                                <a href="recitals.php">Recitals</a>
+                                <a href="events.php#recitals">Recitals</a>
                             </li>
                             <li>
-                                <a href="chamberNight.php">Chamber Night</a>
+                                <a href="events.php#chamber">Chamber Night</a>
                             </li>
                             <li>
-                                <a href="blog-post.html">School Concerts</a>
+                                <a href="events.php#school">School Concerts</a>
                             </li>
                             <li>
                                 <hr>
                             </li>
                             <li>
-                                <a href="otherEvents.php">Other Events</a>
+                                <a href="events.php#other">Other Events</a>
                             </li>
                         </ul>
                 </li>

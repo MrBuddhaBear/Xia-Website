@@ -11,8 +11,8 @@
     <div class="container">
         <div class="row">
           <div class="col-md-7">
-            <h1>Bootstrap Sidebar
-              <p class="lead">With Affix and Scrollspy</p>
+            <h1>EVENTS
+              <p class="lead">Performances and Recitals</p>
             </h1>
           </div>
           <div class="col-md-5">
@@ -38,121 +38,62 @@
         <!--left-->
         <div class="col-md-3" id="leftCol">
           <ul class="nav nav-stacked" id="sidebar">
-            <li><a href="#sec0"><h4>Private Lessons</h4></a></li>
-            <li><a href="#sec1"><h4>Chamber Orchestra</h4></a></li>
-            <li><a href="#sec2"><h4>Juneau School District</h4></a></li>
-            <li><a href="#sec3"><h4>Sign Up</h4></a></li>
-            <li><a href="#sec4"><h4>Policy</h4></a></li>
+            <li><a href="#recitals"><h4>Recitals</h4></a></li>
+            <li><a href="#chamber"><h4>Chamber Night</h4></a></li>
+            <li><a href="#school"><h4>School Concerts</h4></a></li>
+            <li><a href="#other"><h4>Other Events</h4></a></li>
           </ul>
         </div><!--/left-->
         
         <!--right-->
-        <div class="col-md-9">
-          <h2 id="sec0">
+        <div class="col-md-9 font-V-large">
+          <h2 class="offset" id="recitals">
             <br>
-            Content
+            Recitals
           </h2>
           <p>
-            At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can 
-            find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
-          
-          <hr>
-          <p>
-            Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores 
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut.              
-            Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores 
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut!</p>
-          
-          <h2 id="sec1">
-            <br>
-            Content
-          </h2>
-          <p>
-            Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+            ADD TEXT HERE
           </p>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="panel panel-default">
-                <div class="panel-heading"><h3>Hello.</h3></div>
-                <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
-                  Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
-                  dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
-                  Aliquam in felis sit amet augue.
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="panel panel-default">
-                <div class="panel-heading"><h3>Hello.</h3></div>
-                <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
-                  Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
-                  dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
-                  Aliquam in felis sit amet augue.
-                </div>
-              </div>
-            </div>  
-          </div>
-          
           <hr>
-          
-          <h2 id="sec2">
-            <br>
-            Section 2
-          </h2>
           <p>
-            Rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores 
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut!
+            ADD TEXT HERE
           </p>
-          <div class="row">
-            <div class="col-md-4"><img src="//placehold.it/300x300" class="img-responsive"></div>
-            <div class="col-md-4"><img src="//placehold.it/300x300" class="img-responsive"></div>
-            <div class="col-md-4"><img src="//placehold.it/300x300" class="img-responsive"></div>
-          </div>
           
-          <hr>
-          
-          <h2 id="sec3">
+          <h2 id="chamber">
             <br>
-            Section 3
+            Chamber Night
           </h2>
           <p>
-            Images are responsive sed @mdo but sum are more fun peratis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores 
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut..</p>
+            ADD TEXT HERE
+          </p>
+          <hr>
           <p>
-            Fos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut..</p>
-          
-          
-          <h2 id="sec4">
+            ADD TEXT HERE
+          </p>
+
+          <h2 id="school">
             <br>
-            Section 4
+            School Concerts
           </h2>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia cor magni dolores 
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut.</p>
-          
+            ADD TEXT HERE
+          </p>
           <hr>
-          <h4><a href="http://www.bootply.com/Gygh9swISB">Edit on Bootply</a></h4>
+          <p>
+            ADD TEXT HERE
+          </p>
+
+          <h2 id="other">
+            <br>
+            Other Events
+          </h2>
+          <p>
+            ADD TEXT HERE
+          </p>
           <hr>
+          <p>
+
+          </p>
 
           </div><!--/right-->
       </div><!--/row-->

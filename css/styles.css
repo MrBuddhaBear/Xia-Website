@@ -33,6 +33,25 @@ img.grayscale {
 }
 
 /* custom additions */
+
+/* press links */
+.index-press {
+  color: #333;
+}
+
+/* offset to deal with fixed navbar for anchors */
+.offset:before { 
+  margin-top: -50px; /* Give negative margin of your fixed element */    
+}
+
+/* test site under construction
+  red background
+  white text */
+#test-site {
+  background-color: #EE6363;
+  color: white;
+}
+
 .featurette-item-sm {
   margin-bottom: 10px;
 }

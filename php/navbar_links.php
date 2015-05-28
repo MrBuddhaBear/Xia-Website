@@ -46,29 +46,29 @@
                             </li>
                         </ul>
 		        </li>
-		        <li class="dropdown">
+                <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                        	<li>
-                        		<a href="index.php#Events">Events</a>
-                        	</li>
-                        	<li>
-                        		<hr>
-                        	</li>
                             <li>
-                                <a href="recitals.php">Recitals</a>
-                            </li>
-                            <li>
-                                <a href="chamberNight.php">Chamber Night</a>
-                            </li>
-                            <li>
-                                <a href="blog-post.html">School Concerts</a>
+                                <a data-scroll href="#Events">Events</a>
                             </li>
                             <li>
                                 <hr>
                             </li>
                             <li>
-                                <a href="otherEvents.php">Other Events</a>
+                                <a href="events.php#recitals">Recitals</a>
+                            </li>
+                            <li>
+                                <a href="events.php#chamber">Chamber Night</a>
+                            </li>
+                            <li>
+                                <a href="events.php#school">School Concerts</a>
+                            </li>
+                            <li>
+                                <hr>
+                            </li>
+                            <li>
+                                <a href="events.php#other">Other Events</a>
                             </li>
                         </ul>
                 </li>

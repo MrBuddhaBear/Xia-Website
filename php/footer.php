@@ -10,20 +10,12 @@ echo
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Company</li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">
-                      About Us
-                    </a>
+                    <a href="about.php#xia">About Xia</a>
                   </li>
-                  <li><a href="...:::URL NEEDED:::...">Careers</a>
+                  <li><a href="about.php#studio">About Xia\'s Studio</a>
                   </li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">Blog</a>
-                  </li>
-                  <li>
-                    <a href="...:::URL NEEDED:::...">Privacy</a>
-                  </li>
-                  <li>
-                    <a href="...:::URL NEEDED:::...">Terms</a>
+                    <a href="studio.php#policy">Policy</a>
                   </li>
                 </ul>
               </div>
@@ -31,10 +23,16 @@ echo
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Studio</li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">Private Lessons</a>
+                    <a href="studio.php#private_lessons">Private Lessons</a>
                   </li>
                   <li>
-                    <a href="...:::URL NEEDED:::..."></a>
+                    <a href="studio.php#chamber_orchestra">Chamber Orchestra</a>
+                  </li>
+                  <li>
+                    <a href="studio.php#JSD">Juneau School District</a>
+                  </li>
+                  <li>
+                    <a href="studio.php#sign_up">Sign Up</a>
                   </li>
                 </ul>
               </div>
@@ -42,28 +40,22 @@ echo
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Events</li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">Student Recitals</a>
+                    <a href="events.php#recitals">Student Recitals</a>
                   </li>
                   <li>
-                    <a href="">Chamber Night</a>
+                    <a href="events.php#chamber">Chamber Night</a>
                   </li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">JSD Perfomances</a>
+                    <a href="events.php#school">JSD Perfomances</a>
                   </li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">Trips</a>
+                    <a href="events.php#other">Trips</a>
                   </li>
                 </ul>
               </div>
               <div class="col-sm-3">
                 <ul class="list-unstyled">
                   <li class="font-V-upper">Support</li>
-                  <li>
-                    <a href="...:::URL NEEDED:::...">Contact Us</a>
-                  </li>
-                  <li>
-                    <a href="...:::URL NEEDED:::..."></a>
-                  </li>
                   <li>
                     <a href="...:::URL NEEDED:::...">Contact Us</a>
                   </li>
