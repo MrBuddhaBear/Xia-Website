@@ -11,18 +11,19 @@
     <div class="container">
         <div class="row">
           <div class="col-md-7">
-            <h1>Bootstrap Sidebar
-              <p class="lead">With Affix and Scrollspy</p>
+            <h1>Studio
+              <hr>
+              <p class="lead">Learn about violin opportunities</p>
             </h1>
           </div>
           <div class="col-md-5">
               <div class="well well-lg"> 
                 <div class="row">
                   <div class="col-sm-6">
-                    <img src="//placehold.it/180x100" class="img-responsive">
+                    <img src="pic/flowers.jpg" class="img-responsive">
                   </div>
-                  <div class="col-sm-6">
-                    Some text here
+                  <div class="col-sm-6 font-V">
+                    Students participating in recital
                   </div>
                 </div>
               </div>
@@ -54,6 +55,17 @@
             Private Lessons
           </h2>
           <br>
+
+          <div class="row">
+            <div class="col-md-7">
+              <img src="pic\rosenthalandmidoriweb.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+            </div>
+            <div class="col-md-5">
+              Picture Caption
+            </div>
+          </div>
+
+          <br>
           <p>
             Mr. xia uses the suzuki and traditional methods for teaching violin and viola. The suzuki method is based on language acquisition theories in that by creating a positive environment, students can learn and excel at music. The suzuki cirriculum books 1 - 4 are taught in tandem with classical methods such as warming up with scales and etudes. As many of suzuki’s pieces are from the baroque period, advance students’ repitore will include concertos and other peices from different time period composors in the romantic, modern, and classical era. 
           </p>
@@ -62,11 +74,36 @@
           <p>
             Mr. xia offers private lessons at two locations in juneau, AK. The valley location is at his home studio (hyperlink). the downtown location is at northern lights church (hyperlink). lessons can span from 30 minutes to 1 hour depending on age and playing level. A summer and winter recital is held annually for students to showcase their hardwork throughout the year. students are also encouraged to attend master classes at the juneau jazz and classics annual string workshop with master teachers from the lower 48. 
           </p>
+          <hr>
+          <br>
+
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+              <img src="pic\midoriweb.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+              <br><br>
+              <p>
+                Picture Caption
+              </p>
+            </div>
+          </div>
+
+          <br>
           
           <h2 id="chamber_orchestra">
             <br>
             Chamber Orchestra
           </h2>
+          <br>
+
+          <div class="row">
+            <div class="col-md-7">
+              <img src="pic\hsquartetweb.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+            </div>
+            <div class="col-md-5">
+              Picture Caption
+            </div>
+          </div>
+
           <br>
           <p>
             Mr. xia runs a couple of string quartet and ensemble groups during his spare time. he coaches the ursa major string ensemble every weekend. a sampling of their repitore include tschoviky’s (sp) seranade, dvorak’s slavonic dance, and the hayden symphony #73. This group can also perform more playful and contemporary pieces such as harry potter’s melody on a theme and something else. 
@@ -92,17 +129,52 @@
           </p>
           
           <hr>
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+              <div class="embed-responsive embed-responsive-4by3">
+                <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/EGsuO7HYxL0" frameborder="0" allowfullscreen></iframe>
+              </div>
+              <br><br>
+              <p>
+                Picture Caption
+              </p>
+            </div>
+          </div>
+          <hr>
+
+          <br>
           
           <h2 id="JSD">
             <br>
             Juneau School District
           </h2>
+
+          <br>
+
+          <div class="row">
+            <div class="col-md-7">
+              <img src="pic\esclass.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+            </div>
+            <div class="col-md-5">
+              Picture Caption
+            </div>
+          </div>
+
           <br>
           <p>
             Mr. xia has been heavily involved in music education throughout the juneau school district. He taught at the charter school for 6 years from grades kindergaren to sixth grade. He also taught violin for 4 years from the inception of juneau alaska music matters (Jamm) Program. Jamm is an el sistema inspired music program that promotes early access to instrumental lessons through elementary schools and community partnerships. mr. xia has worked closely with glacier valley elementary school music teacher lorrie heggy in creating Jamm’s string music cirriculum and has exciting plans to expand the current program to incorporate a school orchestra in the future. 
           </p>
           
           <hr>
+          <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+              <img src="pic\jsdstudents.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+              <br><br>
+              <p>
+                Picture Caption
+              </p>
+            </div>
+          </div>
 
           <h2 id="piano">
             <br>
