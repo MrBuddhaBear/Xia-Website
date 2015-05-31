@@ -20,7 +20,7 @@
               <div class="well well-lg"> 
                 <div class="row">
                   <div class="col-sm-6">
-                    <img src="pic/flowers.jpg" class="img-responsive">
+                    <img src="pic/flowersweb.jpg" class="img-responsive">
                   </div>
                   <div class="col-sm-6 font-V">
                     Students participating in recital
@@ -153,7 +153,7 @@
 
           <div class="row">
             <div class="col-md-7">
-              <img src="pic\esclass.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+              <img src="pic\esclassweb.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
             </div>
             <div class="col-md-5">
               Picture Caption
@@ -168,7 +168,7 @@
           <hr>
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
-              <img src="pic\jsdstudents.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
+              <img src="pic\jsdstudentsweb.jpg" class="img-responsive img-thumbnail" alt="Responsive image">
               <br><br>
               <p>
                 Picture Caption
@@ -224,7 +224,16 @@
           
           <br>
           <hr>
-          <h4><a href="doc/policy.pdf">Copy of Policy</a></h4>
+          <h4>Copy of Policy</h4>
+          <hr>
+          <div class="font-V-sm">
+            <div class="well">
+              <a href="doc/policy.pdf">Download PDF Version</a> <br>
+            </div>
+            <div class="well">
+              <a href="doc/policy.doc">Download Word Version</a>
+            </div>
+          </div>
           <hr>
           <br>
 
