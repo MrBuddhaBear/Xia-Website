@@ -131,8 +131,8 @@
           <hr>
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
-              <div class="embed-responsive embed-responsive-4by3">
-                <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/EGsuO7HYxL0" frameborder="0" allowfullscreen></iframe>
+              <div class="youtube-container img-responsive img-thumbnail">
+                <div class="youtube-player" data-id="EGsuO7HYxL0"></div>
               </div>
               <br><br>
               <p>
@@ -257,5 +257,6 @@
     var page = "studio";
   </script>
   <script src="js/side_scroll.js"></script>
+  <script src="js/youtube.js"></script>
 </body>
 </html>

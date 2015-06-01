@@ -27,3 +27,18 @@ the teacher from high school festival gave quartet a comment after its audition
 
 affperformance
 strings int he rain quartet performed at Alaska folk festival 2015
+
+msrecital
+middle school recital at Floyd Dryden
+
+esclass
+elemetary school class
+
+crecital
+recital at church?
+
+jsdstudents
+students from the Juneau School District
+
+flowers
+students giving instructors flowers
