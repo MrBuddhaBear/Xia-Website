@@ -8,16 +8,10 @@
 <div class="header alt vert-header">
   <div class="container vert">
     <div>&nbsp;</div>
-    <h2>
-      <div class="well" id="test-site">
-        TEST SITE UNDER CONSTRUCTION
-      </div>
-    </h2>
     <h1>
-      <br>
-      <br>
       Xia's Studio
     </h1>
+    <br><br><br><br><br><br><br><br><br><br>
     <p class="lead">
       Bringing music to the community of Juneau for over 20 years
     </p>
@@ -33,7 +27,7 @@
   <div class="container">
     <div class="row">
       <div class='col-md-3 col-md-offset-1 face-container text-center'>
-        <img src='pic/face.jpg' alt="Opps! Looks like we have run into an technical error." class="img-circle grayscale face">
+        <img src='pic/Guo-Hua-Xia.jpg' alt="Guo Hua Xia" class="img-circle grayscale face">
       </div>
       <div class="col-md-7">
         <h1>About Xia ...</h1>
@@ -358,7 +352,7 @@
               <br>
               <abbr title="Work Phone">Work:</abbr> (907) 789-9774 <br>
               <abbr title="Mobile Phone">Mobile:</abbr> (907) ...-.... <br>
-              <abbr title="Email">Email:</abbr> <a href="mailto:#">xia@alaska.com</a>
+              <abbr title="Email">Email:</abbr> <a href="mailto:#">xiaguohua50@gmail.com</a>
             </address>
           </h3>
         </div>
@@ -454,7 +448,7 @@
 
 	<!-- script references -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
     <script src="js/bind-polyfill.min.js"></script>
     <script src="js/smooth-scroll.min.js"></script>
     <script src="js/scripts.js"></script>

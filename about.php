@@ -10,7 +10,7 @@
   <div class="container">
     <div class="row">
       <div class='col-md-3 col-md-offset-1 face-container text-center'>
-        <img src='pic/studiocircle.jpg' alt="Opps! Looks like we have run into an technical error." class="img-rounded grayscale face">
+        <img src='pic/students-in-orchestra.jpg' alt="Xia's students playing in an orchestra" class="img-rounded grayscale face">
       </div>
       <div class="col-md-7">
         <h1 id="studio">About Xia's Studio ...</h1>
@@ -31,15 +31,15 @@
     <br>   
     <div class="row">
       <div class='col-md-3 col-md-offset-1 face-container text-center'>
-        <img src='pic/face.jpg' alt="Guo Hua Xia" class="img-circle grayscale face"/>
+        <img src='pic/Guo-Hua-Xia.jpg' alt="Guo Hua Xia" class="img-circle grayscale face"/>
         <br>
         <hr>
         <br>
-        <img src='pic/UAFLogo.jpg' alt='University of Fairbanks'/>
+        <img src='pic/UAF.jpg' alt='University of Fairbanks Logo'/>
         <br>
         <hr>
         <br>
-        <img src='pic/schmusic.jpg' alt='Shanghai Conservatory of Music'>
+        <img src='pic/shanghai-conservatory-of-music.jpg' alt='Shanghai Conservatory of Music logo'>
       </div>
       <div class="col-md-7">
         <h1 id="xia">About Xia ...</h1>

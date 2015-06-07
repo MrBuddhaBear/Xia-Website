@@ -90,18 +90,12 @@
               <div class="well well-lg"> 
                 <div class="row">
                   <div class="col-sm-6">
-                    <img src="pic/press.jpg" class="img-responsive pic-border">
+                    <img src="pic/New-England-Conservatory-Visit.jpg" alt="The New England Conservatory President and Xia" class="img-responsive pic-border">
                   </div>
-                  <div class="col-sm-6 font-V">
-                    From Left to Right:
+                  <div class="col-sm-6 font-V-sm">
+                    The president of the New England Conservatory visits a violin class taught by Xia in 2014.
                     <br>
-                    Guo Hua Xia, 
-                    <br>
-                    ...,
-                    <br>
-                    ...,
-                    <br>
-                    ...
+                    From left to right: Guo Hua Xia,Tony Woodcock, Mrs. Woodcock, and Lorrie Heagy
                   </div>
                 </div>
               </div>
