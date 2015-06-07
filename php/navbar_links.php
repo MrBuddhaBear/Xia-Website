@@ -21,7 +21,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Studio <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         	<li>
-                        		<a href="index.php#Studio">Studio</a>
+                        		<a href="studio.php">Studio</a>
                         	</li>
                         	<li>
                         		<hr>
@@ -50,7 +50,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a data-scroll href="#Events">Events</a>
+                                <a href="events.php">Events</a>
                             </li>
                             <li>
                                 <hr>
@@ -72,7 +72,7 @@
                             </li>
                         </ul>
                 </li>
-		        <li><a href="index.php#Press">Press</a></li>
+		        <li><a href="press.php">Press</a></li>
 		        <li><a href="contact.php">Contact</a></li>
 		      </ul>
 		    </div>

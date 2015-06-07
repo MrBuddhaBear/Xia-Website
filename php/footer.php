@@ -60,40 +60,40 @@ echo
                     <a href="contact.php">Contact Us</a>
                   </li>
                   <li>
-                    <a href="...:::URL NEEDED:::...">Web Site</a>
+                    <a href="website.php">Website</a>
                   </li>
                 </ul>
               </div>
             </div>
           </div>
         </div>
-        <hr>
-        <div class="row">
-          <div class="col-md-12">
-            <ul class="list-unstyled list-inline text-center social-accounts">
-              <li class="font-V-upper">Connect With Xia</li>
-              <li>
-                <a class="twitter" href="...:::URL NEEDED:::..." target="_blank">
-                  <i class="fa fa-twitter fa-lg ">
-                  </i>
-                </a>
-              </li>
-              <li>
-                <a class="facebook" href="...:::URL NEEDED:::..." target="_blank">
-                  <i class="fa fa-facebook fa-lg ">
-                  </i>
-                </a>
-              </li>
-              <li>
-                <a class="instagram" href="...:::URL NEEDED:::..." target="_blank">
-                  <i class="fa fa-instagram fa-lg ">
-                  </i>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="row">
+        <hr>' .
+        // <div class="row">
+        //   <div class="col-md-12">
+        //     <ul class="list-unstyled list-inline text-center social-accounts">
+        //       <li class="font-V-upper">Connect With Xia</li>
+        //       <li>
+        //         <a class="twitter" href="...:::URL NEEDED:::..." target="_blank">
+        //           <i class="fa fa-twitter fa-lg ">
+        //           </i>
+        //         </a>
+        //       </li>
+        //       <li>
+        //         <a class="facebook" href="...:::URL NEEDED:::..." target="_blank">
+        //           <i class="fa fa-facebook fa-lg ">
+        //           </i>
+        //         </a>
+        //       </li>
+        //       <li>
+        //         <a class="instagram" href="...:::URL NEEDED:::..." target="_blank">
+        //           <i class="fa fa-instagram fa-lg ">
+        //           </i>
+        //         </a>
+        //       </li>
+        //     </ul>
+        //   </div>
+        // </div>
+        '<div class="row">
           <div class="col-md-12">
             <p class="text-center font-V">© 2014 Xia Studio, Inc.</p>
           </div>

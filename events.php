@@ -22,7 +22,7 @@
                     <img src="//placehold.it/180x100" class="img-responsive">
                   </div>
                   <div class="col-sm-6">
-                    Some text here
+                    Section Under Construction
                   </div>
                 </div>
               </div>
@@ -52,11 +52,11 @@
             Recitals
           </h2>
           <p>
-            ADD TEXT HERE
+            Section Under Construction
           </p>
           <hr>
           <p>
-            ADD TEXT HERE
+            ...
           </p>
           
           <h2 id="chamber">
@@ -64,23 +64,23 @@
             Chamber Night
           </h2>
           <p>
-            ADD TEXT HERE
+            Section Under Construction
           </p>
           <hr>
           <p>
-            ADD TEXT HERE
+            ...
           </p>
 
           <h2 id="school">
             <br>
-            School Concerts
+            Section Under Construction
           </h2>
           <p>
-            ADD TEXT HERE
+            Section Under Construction
           </p>
           <hr>
           <p>
-            ADD TEXT HERE
+            ...
           </p>
 
           <h2 id="other">
@@ -88,7 +88,7 @@
             Other Events
           </h2>
           <p>
-            ADD TEXT HERE
+            Section Under Construction
           </p>
           <hr>
           <p>
@@ -106,7 +106,7 @@
 
 	<!-- script references -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="js/bind-polyfill.min.js"></script>
   <script src="js/smooth-scroll.min.js"></script>
   <script src="js/scripts.js"></script>

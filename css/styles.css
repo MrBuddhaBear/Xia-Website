@@ -34,6 +34,43 @@ img.grayscale {
 
 /* custom additions */
 
+/* centering of text */
+.text-center {
+  text-align: center;
+}
+
+/* white font with black borders*/
+.white {
+  color: white;
+}
+.white-with-border {
+  color: white;
+  text-shadow:
+  -1px -1px 0 #333,  
+   1px -1px 0 #333,
+   -1px 1px 0 #333,
+    1px 1px 0 #333;
+}
+
+/* medium grayscale */
+img.grayscalem {
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(30%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+}
+
+/* website page header */
+.wheader {
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(30%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+  min-height: 60%;
+  background: #f68076 url('../pic/glacier.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 /* YouTube embedded Customization
    Source: http://www.labnol.org/internet/light-youtube-embeds/27941/
 */

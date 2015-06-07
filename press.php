@@ -214,7 +214,7 @@
               <input type="text" name="firstName" class="form-control" id="formFirstName" placeholder="Enter First Name">
               <label for="formLastName">Last Name *<span class="error"> <?php echo $lastNameErr;?></span></label>
               <input type="text" name="lastName" class="form-control" id="formLastName" placeholder="Enter Last Name">
-            <div>
+            </div>
             <div class="form-group">
               <label for="formEmail">Email Address *<span class="error"> <?php echo $emailErr;?></span></label>
               <input type="text" name="email" class="form-control" id="formEmail" placeholder="Enter email">
@@ -245,7 +245,7 @@
 
   <!-- script references -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="js/bind-polyfill.min.js"></script>
   <script src="js/smooth-scroll.min.js"></script>
   <script src="js/scripts.js"></script>

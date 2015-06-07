@@ -16,7 +16,7 @@
         <h1 id="studio">About Xia's Studio ...</h1>
         <div>&nbsp;</div>
         <p class="lead">
-          ....
+          Section Under Construction
           <br><br>
           ....
           <br><br>
@@ -31,7 +31,7 @@
     <br>   
     <div class="row">
       <div class='col-md-3 col-md-offset-1 face-container text-center'>
-        <img src='pic/face.jpg' alt="Opps! Looks like we have run into an technical error." class="img-circle grayscale face"/>
+        <img src='pic/face.jpg' alt="Guo Hua Xia" class="img-circle grayscale face"/>
         <br>
         <hr>
         <br>
@@ -68,7 +68,7 @@
 
 	<!-- script references -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="js/bind-polyfill.min.js"></script>
   <script src="js/smooth-scroll.min.js"></script>
   <script src="js/scripts.js"></script>
