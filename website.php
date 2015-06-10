@@ -57,7 +57,7 @@
           "Email: " . $email . "\n\n" .
           "Info/Testimony : \n" . 
           $_POST["comments"];
-        mail('zheng_colin@yahoo.com',"WEBMASTER: Form Submission",$message, "From: requests@violinxia.com");
+        mail('requests@violinxia.com;webmaster@violinxia.com',"WEBMASTER: Form Submission",$message, "From: " . $email);
         $success = "<div class=\"well text-center success\">Your input has been submitted. <br> Thank you for your help!</div>";
      }
 
@@ -104,9 +104,9 @@
         <h1 id="website-info">About This Website...</h1>
         <div>&nbsp;</div>
         <p class="font-V-large">
-          Mr. Xia ("Shaw") is a classically trained violinist with 25 years of violin and viola teaching experience. Over the years he has taught over 500 studens from ages 5 to 65.
+            Section Under Construction
           <br><br>
-          The main libraries used to create this website are listed below:
+            The main libraries used to create this website are listed below:
           <ul class="font-V">
           <br>
             <li>

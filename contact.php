@@ -67,7 +67,7 @@
           "Email: " . $email . "\n\n" .
           "Info/Testimony : \n" . 
           $_POST["comments"];
-        mail('zheng_colin@yahoo.com',$message_subject,$message_body, "From: request@violinxia.com");
+        mail('requests@violinxia.com',$message_subject,$message_body, "From: " . $email);
         $success = "<div class=\"well text-center success\">Your message has been submitted. <br> Thank you contacting Xia!</div>";
      }
 
