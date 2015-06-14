@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://violinxia.com/</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/index.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/studio.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/events.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/about.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/press.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/contact.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/website.php</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/doc/policy.pdf</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://violinxia.com/doc/policy.doc</loc>
+  <lastmod>2015-06-14</lastmod>
+  <changefreq>never</changefreq>
+</url>
+</urlset>
