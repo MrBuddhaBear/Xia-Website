@@ -34,6 +34,14 @@ img.grayscale {
 
 /* custom additions */
 
+/* error page customizations*/
+.error-page {
+  background: #EE6363;
+  padding: 50px 0;
+  color: #ffffff;
+  min-height: 50%;
+}
+
 /* centering of text */
 .text-center {
   text-align: center;
