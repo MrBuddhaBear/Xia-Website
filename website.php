@@ -104,23 +104,43 @@
         <h1 id="website-info">About This Website...</h1>
         <div>&nbsp;</div>
         <p class="font-V-large">
-            Section Under Construction
+          Big thanks goes out to <a href="https://www.linkedin.com/pub/pauline-zheng/65/5a3/237">Pauline Zheng</a> for content curation and design help.
           <br><br>
-            The main libraries used to create this website are listed below:
+            The libraries/frameworks used:
           <ul class="font-V">
           <br>
             <li>
               Twitter Bootstrap (v3.2.0) - <a src='http://getbootstrap.com/'>getbootstrap.com/</a>
+              <br>
+              (MIT License)
             </li>
             <br>
             <li>
               JQuery (v2.0.2) - <a src='https://jquery.com/'>jquery.com/</a>
+              <br>
+              (MIT License)
             </li>
             <br>
             <li>
               Font Awesome (v4.2.0) - <a src='http://fortawesome.github.io/Font-Awesome/'>fortawesome.github.io/Font-Awesome/</a>
+              <br>
+              Fonts - (SIL OFL 1.1)<br>
+              CSS - (MIT License)
+            </li>
+            <br>
+            <li>
+              Google Maps API (v3) - <a href="https://developers.google.com/maps/?hl=en">developers.google.com/maps</a>
+              <br>
+              <a href="https://developers.google.com/maps/terms">developers.google.com/maps/terms</a>
+            </li>
+            <br>
+            <li>
+              Smooth-Scroll (v5.1.2) - <a href="http://github.com/cferdinandi/smooth-scroll">github.com/cferdinandi/smooth-scroll</a>
+              <br>
+              (MIT License)
             </li>
           </ul>
+
         </p>
       </div>
     </div>
