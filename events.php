@@ -41,6 +41,7 @@
             <li><a href="#recitals"><h4>Recitals</h4></a></li>
             <li><a href="#chamber"><h4>Chamber Night</h4></a></li>
             <li><a href="#school"><h4>School Concerts</h4></a></li>
+            <li><a href="#trips"><h4>Trips</h4></a></li>
             <li><a href="#other"><h4>Other Events</h4></a></li>
           </ul>
         </div><!--/left-->
@@ -58,8 +59,9 @@
           <br>
           <hr>
           
+          <br>
+
           <h2 id="chamber">
-            <br>
             Chamber Night
           </h2>
           <br>
@@ -69,8 +71,9 @@
           <br>
           <hr>
 
+          <br>
+
           <h2 id="school">
-            <br>
             Juneau School District
           </h2>
           <br>
@@ -82,13 +85,32 @@
           <br>
           <hr>
 
+          <br>
+
+          <h2 id="trips">
+            Trips
+          </h2>
+          <br>
+          <p>
+            In the past, the Ursa Major String Quartet has traveled to China on three separate occasions to experience China’s cultural and musical history. Participants played on the steps of the historic Great Wall as well as with the Beijing Student Symphony, stared eye-to-eye with the Terracotta Warriors, become enthralled with the Chinese acrobats, and visited Mr. Xia’s hometown Shanghai. 
+            <br><br>
+            To learn more about Juneau String ensembles or view the photo album, visit our sister site: <a href="www.juneaustrings.org">www.juneaustrings.org</a>. 
+          </p>
+          <br>
+          <hr>
+
+          <br>
+
           <h2 id="other">
-            <br>
             Other Events
           </h2>
           <br>
           <p>
-            If you are looking to hire a string quartet or solo musical act for your next event, we have the entertainment! The Ursa Major String Ensemble repertoire not only contains classical pieces but also wedding classics such as Pachebel’s Canon in D, Bach’s Minuet in G, Ode to Joy, and Wedding March from A Midsummer Night’s Dream as well as music for cocktail hour such as Strauss’s Emperor’s Waltz, Vivaldi Seasons, and Can You Feel the Love Tonight from the Lion King. Requests can be accommodated if given time to locate sheet music and practice. For a list of community events Mr. Xia’s group of students is affiliated with, click on the Juneau String Ensemble tab. 
+            If you are looking to hire a string quartet or solo musical act for your next event, we have the entertainment! 
+            <br><br>
+            The Ursa Major String Ensemble repertoire not only contains classical pieces but also wedding classics such as Pachebel’s Canon in D, Bach’s Minuet in G, Ode to Joy, and Wedding March from A Midsummer Night’s Dream as well as music for cocktail hour such as Strauss’s Emperor’s Waltz, Vivaldi Seasons, and Can You Feel the Love Tonight from the Lion King. Requests can be accommodated if given time to locate sheet music and practice. 
+            <br><br>
+            For a list of community events Mr. Xia’s group of students is affiliated with, go to the <a href="events.php#chamber">Juneau String Ensemble</a> section. 
           </p>
           <br>
           <hr>

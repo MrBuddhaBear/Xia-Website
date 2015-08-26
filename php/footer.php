@@ -49,7 +49,7 @@ echo
                     <a href="events.php#school">JSD Perfomances</a>
                   </li>
                   <li>
-                    <a href="events.php#other">Trips</a>
+                    <a href="events.php#trips">Trips</a>
                   </li>
                 </ul>
               </div>

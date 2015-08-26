@@ -40,7 +40,7 @@
         <div class="col-md-3" id="leftCol">
           <ul class="nav nav-stacked" id="sidebar">
             <li><a href="#private_lessons"><h4>Private Lessons</h4></a></li>
-            <li><a href="#chamber_orchestra"><h4>Chamber Orchestra</h4></a></li>
+            <li><a href="#chamber_orchestra"><h4>Juneau String Ensembles</h4></a></li>
             <li><a href="#JSD"><h4>Juneau School District</h4></a></li>
             <li><a href="#piano"><h4>Piano Accompaniment</h4></a></li>
             <li><a href="#sign_up"><h4>Sign Up</h4></a></li>
@@ -64,15 +64,13 @@
               Guohua Xia with Linda Rosenthal (left), the Director of Juneau Jazz and Classic, and Midori Gotō (middle), a renown violinist who was in Juneau in 2015 for a recital.
             </div>
           </div>
-
+          <br>
+          <hr>
           <br>
           <p>
-            Mr. Xia uses the suzuki and traditional methods for teaching violin and viola. The suzuki method is based on language acquisition theories in that by creating a positive environment, students can learn and excel at music. The suzuki cirriculum books 1 - 4 are taught in tandem with classical methods such as warming up with scales and etudes. As many of suzuki’s pieces are from the baroque period, advance students’ repitore will include concertos and other peices from different time period composors in the romantic, modern, and classical era. 
-          </p>
-          
-          <hr>
-          <p>
-            Mr. Xia offers private lessons at two locations in Juneau, AK. The valley location is at his home studio. The downtown location is at Northern Lights Church. Lessons can span from 30 minutes to 1 hour depending on age and playing level. A summer and winter recital is held annually for students to showcase their hardwork throughout the year. Students are also encouraged to attend master classes at the juneau jazz and classics annual string workshop with master teachers from the lower 48. 
+            Mr. Xia uses the Suzuki and traditional methods to teach violin and viola. The Suzuki method is loosely borrowed from various principles of language acquisition in that by creating a positive environment, students can learn and excel at music. Other key characteristics are strong parental involvement as parents are encouraged to accompany students during the lesson and act as “home teachers,” during practice time, constant repetition, and invoking an encouraging atmosphere. The Suzuki curriculum books 1 - 4 are taught in tandem with classical methods such as warming up with scales and etudes. Students will start off learning classical pieces from the baroque period. As they progress, their repertoire will expand to include concertos and other styles of composition from the romantic, modern and classical eras that are included in Suzuki books 5-7. Musical pieces outside of the Suzuki method will be introduced at the advanced level. These choices are tailored to the individual’s needs and used to learn and refine their musical technique. Past selections include the sprightly Wieniawski Violin Concerto No. 1 in F# minor, playful Brahms Hungarian Dance No. 5, and traditional Chinese folk melodies.
+            <br><br>
+            Mr. Xia offers private lessons at two locations in Juneau, AK. The valley location is his home (see map for details). The downtown location is located at Northern Light United Church on 400 W. 11th St. Lessons will span from 30 minutes to 1 hour depending on age and playing level. A summer and winter recital is held annually for students to showcase their hard work throughout the year. Students will also be given the opportunity to attend master classes associated with the Juneau Jazz and Classics Annual String Workshop where they can receive instruction from renowned artists visiting from the contiguous states.
           </p>
           <hr>
           <br>
@@ -88,10 +86,11 @@
           </div>
 
           <br>
-          
+          <hr>
+          <br>
+
           <h2 id="chamber_orchestra">
-            <br>
-            Chamber Orchestra
+            Juneau String Ensembles
           </h2>
           <br>
 
@@ -103,16 +102,17 @@
               A music teacher gives a quartet a comment after their audition.
             </div>
           </div>
-
+          <br>
+          <hr>
           <br>
           <p>
-            Mr. Xia runs a couple of string quartet and ensemble groups during his spare time. He coaches the Ursa Major String Ensemble every weekend. A sampling of their repitore include Tschoviky’s (sp) Seranade, Dvorak’s Slavonic Dance, and the Hayden Symphony #73. This group can also perform more playful and contemporary pieces such as Harry Potter’s melody on a theme and something else. 
-          </p>
-          <hr>
-          <p>
-            Smaller ensemble groups such as a string quartet, trios and duos are available on request. These ensemble groups meet and practice one month before an event.
+            Mr. Xia directs a multitude of string quartets and ensemble groups during his spare time under the non-profit organization Juneau String Ensembles. They ensembles are made up of three groups: Aurora Strings, Ursa Minor, and Ursa Major which has spanned 3 generations of violinists. A sampling of their repertoire include Tchaikovsky’s Serenade for Strings in C major No. 48, Dvorak’s Slavonic Dances, and the Hayden Symphony #73. The groups have also been known to perform more playful and contemporary pieces such as renditions of musical themes from the Harry Potter series and old-timey fiddle tunes.
+            <br><br>
+            Smaller ensemble groups such as a string quartet, trios and duos are available on request. These ensemble groups meet and practice one month before events such as musical competitions and parties. Community members have also participated in ensemble performances and a variety of arrangements can be assembled to cater party interests. 
           </P>
+          <br>
           <hr>
+          <br>
           <p>
             The ursa major string quartet is heavily involved in community. They have been entertainment at:
             <ul class="grey-font">
@@ -162,9 +162,14 @@
 
           <br>
           <p>
-            Mr. Xia has been heavily involved in music education throughout the Juneau School District. He taught at the charter school for 6 years from grades kindergaren to sixth grade. He also taught violin for 4 years from the inception of Juneau Alaska Music Matters (JAMM) Program. JAMM is an el sistema inspired music program that promotes early access to instrumental lessons through elementary schools and community partnerships. Mr. Xia has worked closely with Glacier Valley Elementary school music teacher lorrie heggy in creating JAMM's string music cirriculum and has exciting plans to expand the current program to incorporate a school orchestra in the future. 
+            Mr. Xia is deeply committed to bringing accessible music education to the youth of Juneau in collaboration with the Juneau School District. He has previously taught at the Juneau Community Charter School for 6 years from grades K-6. He also taught violin for 4 years from the inception of the Juneau Alaska Music Matters (JAMM) Program. JAMM is an El Sistema inspired music program that promotes early access to instrumental lessons through elementary schools and community partnerships. Mr. Xia has worked closely with Glacier Valley Elementary school music teacher and founder Lorrie Heggy in creating JAMM's string music curriculum. JAMM has recently expanded to Riverbend Elementary School and Auke Bay Elementary School. Future plans include expanding the current program to incorporate school orchestras at the elementary level. 
+            <br><br>
+            For more information on JAMM, visit their website at: 
+              <a href="http://juneaumusicmatters.blogspot.com." target="_blank">
+                http://juneaumusicmatters.blogspot.com
+              </a>.
           </p>
-          
+          <br>
           <hr>
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
@@ -175,39 +180,34 @@
               </p>
             </div>
           </div>
+          <hr>
+
+          <br>
 
           <h2 id="piano">
-            <br>
             Piano Accompaniment
           </h2>
           <br>
           <p>
-            Every student undergoing instrumental instruction under Mr. Xia has the opportunity to work with an studio pianist available for recital and music competition purposes. 
-            <br>
-            Mei Xue is Mr. Xia’s wife and has 20 years of piano playing and teaching experience. She received her bachelors of performance art in piano from Guiyang Unversity and has accompanied a variety of musical ensembles including complex concertos such as the Mendellsohn concerto in E minor to quartets to large group performances. Orginally from Shanghai, Mei also teaches Chinese to students through various programs. 
-          </p>
-          <hr>
-          <p>
-            Section Under Construction
+            Every student receiving instrumental instruction with Mr. Xia has the opportunity to work with a studio pianist for recital and music competition purposes. Extra studio sessions can be arranged as needed. 
           </p>
 
+          <br>
           <hr>
-          
+          <br>
+
           <h2 id="sign_up">
-            <br>
             Sign Up
           </h2>
           <br>
           <p>
-            Section Under Construction
+            If you are interested in learning a string instrument or have a question about music opportunities in Juneau, fill out a quick questionnaire and we will get in contact with you.
           </p>
-          <p>
-            Section Under Construction
-          </p>
-          
+          <hr>
+
+          <br>
           
           <h2 id="policy">
-            <br>
             Policy
           </h2>
           <br>
@@ -227,6 +227,7 @@
               <a href="doc/policy.doc">Download Word Version</a>
             </div>
           </div>
+          <br>
           <hr>
           <br>
 

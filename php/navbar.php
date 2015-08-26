@@ -30,7 +30,7 @@
                                 <a href="privateLessons.php">Private Lessons</a>
                             </li>
                             <li>
-                                <a href="chamberOrchestra.php">Chamber Orchestra</a>
+                                <a href="chamberOrchestra.php">Juneau String Ensembles</a>
                             </li>
                             <li>
                                 <a href="JSD.php">Juneau School District</a>

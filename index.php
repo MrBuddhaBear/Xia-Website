@@ -21,8 +21,6 @@
   </div>
 </div>
 
-<hr>
-
 <div id="About" class="blurb">
   <div class="container">
     <div class="row">
