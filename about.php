@@ -45,13 +45,13 @@
         <h1 id="xia">About Xia ...</h1>
         <div>&nbsp;</div>
         <p class="font-V-large">
-          Mr. Xia ("Shaw") is a classically trained violinist with 25 years of violin and viola teaching experience. Over the years he has taught over 500 studens from ages 5 to 65.
+          Guo Hua Xia, affectionately known as “Mr. Shaw,” is a classically trained violinist with over 25 years of violin and viola teaching experience. Throughout the years, he has brought the gift of music to over 500 students from ages 5 to 65. 
           <br><br>
-          He received a Bachelor of Arts from the Shanghai Conservatory, and a Masters of Music from the University of Alaska in Fairbanks. He was a violinist with the Shanghai Ballet Orchestra for over 10 years, and is currently a member of the Juneau Symphony, where he has been playing for over 15 years.
+          He received his Bachelor of Arts in music performance from the Shanghai Conservatory, and a Masters of Music from the University of Alaska Fairbanks. Mr. Xia has performed extensively as an orchestral player and chamber musician with various groups such as the Shanghai Ballet Orchestra and the Juneau Symphony. 
           <br><br>
-          Xia has conducted the Juneau Youth Symphony, and currently serves as the music director for Juneau string ensembles. Additionally, he works with many community music members and organizations such as the juneau jazz and classics and the juneau school district to create music opportunites for the youth and musicans of juneau. 
+          Mr. Xia’s legacy reverberates throughout the Juneau community. He has been a guest conductor for the Juneau Youth Symphony, and currently serves as the musical director for multiple Juneau string ensembles. Additionally, he collaborates with many community music members and organizations such as the Juneau Jazz and Classics and the Juneau School District to create music opportunities for the youth and musicians of Juneau. 
           <br><br>
-          Mr. xia has recently been awarded the mayors award for visionary application of the arts for his dedication to teaching violin and viola. In addition to private lessons and coaching ensemble groups, he also teaches through the juneau alaska music matters program (JAMM) at glacier valley elementary school.
+          The Mayors Award for Visionary Application of the Arts was awarded to Mr. Xia in 2014 for his continued dedication to classical music education in Juneau. In addition to private lessons and coaching ensemble groups, he has taught in a variety of school settings including the Juneau Charter School and Juneau Alaska Music Matters (JAMM) program at Glacier Valley Elementary School. Mr. Xia’s talented students are represented on the local and national stage as many have performed alongside him and featured as soloists with the Juneau Symphony and earned prestigious accolades such as selected to the Alaska All-State Orchestra and All-Northwest Orchestra. He has led multiple ensemble groups on a world class China tour, exemplifying that music can transcend cultural and communication barriers. 
         </p>
       </div>
     </div>
