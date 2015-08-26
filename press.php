@@ -58,7 +58,7 @@
           "Email: " . $email . "\n\n" .
           "Info/Testimony : \n" . 
           $_POST["comments"];
-        mail('requests@violinxia.com',"User Press/Testimony Contribution",$message, "From: " . $email);
+        mail('requests@violinxia.com;zheng_colin@yahoo.com',"User Press/Testimony Contribution",$message, "From: " . $email);
         $success = "<div class=\"well text-center success\">Your input has been submitted. <br> Thank you for your contribution!</div>";
      }
 

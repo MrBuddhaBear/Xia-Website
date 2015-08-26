@@ -52,12 +52,12 @@
 
      if ($valid) {
 
-        $message = "Press/Testimony User Contribution \n" .
+        $message = "Website Request \n" .
           "Name: " . $firstName . " " . $lastName . "\n" .
           "Email: " . $email . "\n\n" .
-          "Info/Testimony : \n" . 
+          "Description : \n" . 
           $_POST["comments"];
-        mail('requests@violinxia.com;webmaster@violinxia.com',"WEBMASTER: Form Submission",$message, "From: " . $email);
+        mail('requests@violinxia.com;webmaster@violinxia.com;zheng_colin@yahoo.com',"WEBMASTER: Form Submission",$message, "From: " . $email);
         $success = "<div class=\"well text-center success\">Your input has been submitted. <br> Thank you for your help!</div>";
      }
 

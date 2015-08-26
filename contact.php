@@ -61,13 +61,13 @@
      if ($valid) {
 
         $message_subject = 
-          "REQUEST: " . $subject . " " . $firstName . " " . $lastName;
-        $message_body = "Press/Testimony User Contribution \n" .
+          "REQUEST: " . $subject . " - " . $firstName . " " . $lastName;
+        $message_body = $subject . " Request \n" .
           "Name: " . $firstName . " " . $lastName . "\n" .
           "Email: " . $email . "\n\n" .
-          "Info/Testimony : \n" . 
+          "--------------------------------------------------------------------\n" . 
           $_POST["comments"];
-        mail('requests@violinxia.com',$message_subject,$message_body, "From: " . $email);
+        mail('requests@violinxia.com;zheng_colin@yahoo.com',$message_subject,$message_body, "From: " . $email);
         $success = "<div class=\"well text-center success\">Your message has been submitted. <br> Thank you contacting Xia!</div>";
      }
 

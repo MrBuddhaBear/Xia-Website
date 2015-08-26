@@ -33,10 +33,9 @@
         <h1>About Xia ...</h1>
         <div>&nbsp;</div>
         <p class="lead">
-          Mr. Xia ("Shaw") is a classically trained violinist with 25 years of violin and viola teaching experience. Over the years he has taught over 500 studens from ages 5 to 65.
+          Guo Hua Xia, affectionately known as “Mr. Shaw,” is a classically trained violinist with over 25 years of violin and viola teaching experience. Throughout the years, he has brought the gift of music to over 500 students from ages 5 to 65.
           <br><br>
-          He received a Bachelor of Arts from the Shanghai Conservatory, and a Masters of Music from the University of Alaska in Fairbanks. He was a violinist with the Shanghai Ballet Orchestra for over 10 years, and is currently a member of the Juneau Symphony, where he has been playing for over 15 years.
-          <br><br>
+          He received his Bachelor of Arts in music performance from the Shanghai Conservatory, and a Masters of Music from the University of Alaska Fairbanks. Mr. Xia has performed extensively as an orchestral player and chamber musician with various groups such as the Shanghai Ballet Orchestra and the Juneau Symphony.          <br><br>
           <div class="text-center">
             <a href="about.php" class="btn btn-default btn-lg">More...</a>
           </div>
@@ -66,7 +65,7 @@
             <i class="fa fa-music"></i>
             <h4>Private <br> Lessons</h4>
             <p>
-              Private lessons are one-on-one lessons that take place at Xia's valley studio or downtown at Norther Lights church. 
+              Private lessons are one-on-one lessons that take place at Xia's valley studio or downtown at Northern Lights church. 
               These lessons are a great way to jump start a student's musical skills.
               Click to find out more!
             </p>
@@ -77,8 +76,11 @@
         <div class="col-md-2 text-center white-link">
           <div class="featurette-item">
             <i class="fa fa-users"></i>
-            <h4>Chamber Orchestra</h4>
-            <p>Joining a chamber orchestra is a great way to ...</p>
+            <h4>Juneau String Ensemble</h4>
+            <p>
+              Mr. Xia directs a multitude of string quartets and ensemble groups during his spare time under the non-profit organization Juneau String Ensembles.
+              There are three groups for all skill levels, and joining one is a great way to gain ensemble experience!
+            </p>
           </div>
         </div>
       </a>
